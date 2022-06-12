@@ -11,16 +11,16 @@
 
 ## config
 
-- `git config --global user.name "Eren Çelik"`  
+- `git config --global user.name "Hakan Dağdelen"`  
    > _sets the global username_  
    
-- `git config --global user.email "celikmehmeteren@gmail.com"`  
+- `git config --global user.email "hakandagdelennnn@gmail.com"`  
    > _sets the global email_  
 
-- `git config user.name "Eren Çelik"`  
+- `git config user.name "Hakan Dağdelen"`  
    > _sets the repo specific username (run in the repo directory)_  
    
-- `git config --global user.email "celikmehmeteren@gmail.com"`  
+- `git config --global user.email "hakandagdelennnn@gmail.com"`  
    > _sets the repo specific email (run in the repo directory)_  
 
 - `git config user.email`  
@@ -110,9 +110,9 @@
    > _shows every commit as one line_   
 - `git log -3`  
    > _shows the latest 3 commits_  
-- `git log --author="eren"`  
+- `git log --author="hakan"`  
    > _shows the commits by a specific author_  
-   _(lists all names including 'eren')_  
+   _(lists all names including 'hakan')_  
 - `git log --grep="<message>"`  
    > _shows the commits with a specific message_  
   
